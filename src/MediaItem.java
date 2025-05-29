@@ -5,5 +5,7 @@ public interface MediaItem {
      int  getYear ();
      String getFormattedDisplay();
 
+     String  getDisplayString();
+
 
 }
